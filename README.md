@@ -14,7 +14,7 @@ A dynamic LSTM model for stock price prediction using Python, Keras/TensorFlow.
 
 ## Setup
 1. `pip install -r requirements.txt`
-2. Run `python app.py`
+2. Run `streamlit run app.py`
 
 All files pushed to https://github.com/nagapurisatwika/Dynamic_LSTM_Stock_Predictor. Ready to use!
 
